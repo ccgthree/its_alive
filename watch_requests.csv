@@ -1,0 +1,3 @@
+"Name","IP","Status","LastResult"
+"TestAddress","1.1.1.1","Done","Alive"
+"BadTest","10.2.40.250","Watching","Failed"
